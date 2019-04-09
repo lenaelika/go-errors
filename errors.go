@@ -1,4 +1,3 @@
-// Primitives for cascading error handling w/o stacktrace.
 package errors
 
 import "fmt"
